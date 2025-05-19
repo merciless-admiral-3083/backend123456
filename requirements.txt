@@ -1,6 +1,9 @@
-Flask
-flask-cors
-gunicorn
-nltk
-pypdf
-Werkzeug
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+pymupdf==1.23.7
+nltk==3.8.1
+flask==3.0.3
+flask-cors==4.0.0
+gunicorn==21.2.0
+werkzeug==3.0.1
